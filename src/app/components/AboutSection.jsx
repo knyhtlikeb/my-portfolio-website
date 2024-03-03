@@ -16,6 +16,14 @@ const TAB_DATA = [
        <li>Junior Node.js</li>
        <li>Junior React</li>
        <li>Junior Tailwind CSS</li>
+        <li>Junior HTML,CSS & JavaScript</li>
+        <li>Junior Express.js</li>
+        <li>Junior Node.js</li>
+        <li>Junior React</li>
+        <li>Junior Tailwind CSS</li>
+        <li>Customer Service & Support</li>
+        <li>Community Management</li>
+        <li>Creative Content Creator</li>
       </ul>
     ),
   },
