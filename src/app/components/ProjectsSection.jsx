@@ -11,7 +11,16 @@ const projectsData = [
     description: "Project 1 Description",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/knyhtlikeb/my-portfolio-website",
+    previewUrl: "/",
+  },
+  {
+    id: 2,
+    title: "Blog App",
+    description: "Project 2 Description",
+    image: "/images/projects/1.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/knyhtlikeb/my-blog-app",
     previewUrl: "/",
   },
 

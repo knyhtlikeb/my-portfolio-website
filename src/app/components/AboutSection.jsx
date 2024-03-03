@@ -9,14 +9,13 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>Junior HTML,CSS & JavaScript</li>
-        <li>Junior Express.js</li>
-        <li>Junior Node.js</li>
-        <li>Junior React</li>
-        <li>Junior Tailwind CSS</li>
-        <li>Customer Service & Support</li>
-        <li>Community Management</li>
-        <li>Creative Content Creator</li>
+       <li>Customer Service & Support</li>
+       <li>Community Management</li>
+	     <li>Junior HTML,CSS & JavaScript</li>
+       <li>Junior Express.js</li>
+       <li>Junior Node.js</li>
+       <li>Junior React</li>
+       <li>Junior Tailwind CSS</li>
       </ul>
     ),
   },
@@ -25,8 +24,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>X1</li>
-        <li>X2</li>
+        <li>Education 1</li>
+        <li>Education 2</li>
       </ul>
     ),
   },
@@ -35,8 +34,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>X1</li>
-        <li>X2</li>
+        <li>Certification 1</li>
+        <li>Certification 2</li>
       </ul>
     ),
   },
