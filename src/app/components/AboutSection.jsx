@@ -11,7 +11,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
        <li>Customer Service & Support</li>
        <li>Community Management</li>
-	     <li>Junior HTML,CSS & JavaScript</li>
+       <li>Junior HTML,CSS & JavaScript</li>
        <li>Junior Express.js</li>
        <li>Junior Node.js</li>
        <li>Junior React</li>
